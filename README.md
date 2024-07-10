@@ -6,7 +6,7 @@ I'm Muhammad Faheem Hassan from Pakistan, and I do Custom Wordpress Plugin and T
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=wordpress,react,html,css,bootstrap,scss,git,postman,php&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,react,scss,git,postman,php,mysql&perline=5)](https://skillicons.dev)
 
 
 ### Connect with me:
