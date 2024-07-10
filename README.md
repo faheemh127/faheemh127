@@ -1,12 +1,14 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+## Hi there 👋
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
-  
+I'm Muhammad Faheem Hassan from Pakistan, and I do Custom Wordpress Plugin and Theme Development. I really enjoy learning languages and frameworks like ReactJs. as well as work in Wordpress. I am also enjoy enterprise applications development you can check my linkedin at https://www.linkedin.com/in/muhammad-faheem-hassan-h127/ and my youtube at https://www.youtube.com/@faheemh127 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faheemh127&show_icons=true&bg_color=00000000)
+
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=wordpress,react,html,css,bootstrap,scss,git,postman,php&perline=5)](https://skillicons.dev)
+
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/axiftaj">
@@ -26,13 +28,3 @@
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
-
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
-
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
