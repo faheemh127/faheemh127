@@ -1,6 +1,6 @@
-# Hi there, I'm Muhammad Faheem Hassan 👋
+# Hi there, I'm Muhammad Faheem Hassan 
 
-## 🚀 Full-Stack Developer | MERN Stack & Next.js Enthusiast
+## Full-Stack Developer | MERN Stack & Next.js Enthusiast
 
 I'm a passionate developer from Pakistan 🇵🇰 who started my journey building powerful **Custom WordPress Plugins & Themes**, and has now shifted my focus towards the modern **MERN Stack** — with a deep love for **Next.js** and **React**.
 
@@ -8,7 +8,7 @@ Previously, I spent years crafting enterprise-grade WordPress solutions and cust
 
 ---
 
-### 🔄 My Journey
+### My Journey
 
 > **Then →** WordPress Custom Plugin & Theme Developer (PHP, jQuery, MySQL)
 > 
@@ -16,23 +16,23 @@ Previously, I spent years crafting enterprise-grade WordPress solutions and cust
 
 ---
 
-### 🔭 What I'm currently working on
+###  What I'm currently working on
 - Building full-stack applications with **Next.js 14+** (App Router, Server Actions)
 - Crafting scalable REST APIs with **Node.js & Express**
 - Exploring **enterprise-level architecture** with React and Next.js
 
-### 🌱 What I'm currently learning
+###  What I'm currently learning
 - **Advanced React.js** — patterns, performance optimization, and state management
 - **Next.js** — Server Components, ISR, SSR, and edge functions
 - **TypeScript** for scalable, type-safe applications
 
-### 👯 Looking to collaborate on
+###  Looking to collaborate on
 - Full-stack MERN / Next.js projects
 - Enterprise web applications
 - Open-source React/Next.js tools and libraries
 - (Still happy to consult on complex WordPress plugin architecture!)
 
-### 📫 How to reach me
+###  How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-faheem-hassan-h127/)
 - 🎥 [YouTube](https://www.youtube.com/@faheemh127)
 - 💬 WhatsApp: +92 3068493810
@@ -41,10 +41,10 @@ Previously, I spent years crafting enterprise-grade WordPress solutions and cust
 
 ### 🛠️ Languages & Tools
 
-#### ⚡ Current Stack (MERN & Modern JS)
+####  Current Stack (MERN & Modern JS)
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,typescript,javascript,tailwind,git&perline=5)](https://skillicons.dev)
 
-#### 🧱 Previous Stack (WordPress & Classic Web)
+####  Previous Stack (WordPress & Classic Web)
 [![My Skills](https://skillicons.dev/icons?i=wordpress,php,mysql,jquery,html,css,bootstrap,scss,postman&perline=5)](https://skillicons.dev)
 
 ---
